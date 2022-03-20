@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AboutPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WindowsUI\Controls\WinButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="WindowsUI\Controls\WinButtonControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="WindowsUI\Controls\WinCheckbox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="WindowsUI\Controls\WinCircularPicturebox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="WindowsUI\Controls\WinColorPicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="WindowsUI\Controls\WinForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WindowsUI\Controls\WinLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="WindowsUI\Controls\WinPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="WindowsUI\Controls\WinProgressbar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="WindowsUI\Controls\WinTextbox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="WindowsUI\Controls\WinTileButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
